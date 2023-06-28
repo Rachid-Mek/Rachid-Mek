@@ -1,9 +1,14 @@
-[![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150389740.jpg?w=1060&t=st=1687990286~exp=1687990886~hmac=45aeccce6f87bead89c325b08de100f737fe355f4f348acb6e126ce54d8a1f8a)
+![MasterHead](https://img.freepik.com/free-vector/artificial-intelligence-concept-twitter-header_23-2150389740.jpg?w=1060&t=st=1687990286~exp=1687990886~hmac=45aeccce6f87bead89c325b08de100f737fe355f4f348acb6e126ce54d8a1f8a)
+
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">A passionate Artificial Intelligence Student</h3>
 <img align= "right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rachid-mek&label=Profile%20views&color=0e75b6&style=flat" alt="rachid-mek" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rachid-mek" alt="rachid-mek" /></a> </p>
+
+- 🌱 I’m currently learning **Pytorch,Tenserflow**
+
+- 💬 Ask me about **AI , Machine Learning , Deep learning**
 
 - 📫 How to reach me **rachidmekdoud@gmail.com**
 
@@ -22,3 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachid-mek&show_icons=true&locale=en" alt="rachid-mek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rachid-mek&" alt="rachid-mek" /></p>
+
