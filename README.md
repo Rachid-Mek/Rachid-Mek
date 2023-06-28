@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/futuristic-ai-technology-template-vector-disruptive-technology-blog-banner_53876-117833.jpg?w=1060&t=st=1687990818~exp=1687991418~hmac=61706da3976dc3527bac3be646867d442667e9865ff759b16b2324039e3b0b99)
+![MasterHead](https://img.freepik.com/free-vector/futuristic-ai-technology-template-vector-disruptive-technology-blog-banner_53876-117833.jpg?w=1060&t=st=1687990818~exp=1687991418~hmac=61706da3976dc3527bac3be646867d442667e9865ff759b16b2324039e3b0b99)
 
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">A passionate Artificial Intelligence Student</h3>
