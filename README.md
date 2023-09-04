@@ -10,6 +10,12 @@
 
 - 📫 How to reach me **rachidmekdoud@gmail.com**
 
+## My Interests 🤔
+
+- Data science and AI 📈
+- Web development 🔗
+- Open source software 🆓
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rachid-mekdoud-662720204/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/rachid-mekdoud-662720204/](https://www.linkedin.com/in/rachid-mekdoud-662720204/)" height="30" width="40" /></a>
