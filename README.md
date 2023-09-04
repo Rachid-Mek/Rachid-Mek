@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rachid</h1>
 <h3 align="center">A passionate Artificial Intelligence Student</h3>
+<p>My name is Rachid MEKDOUD, and I am currently pursuing a Master's degree in Artificial Intelligence. I am also a web developer, with experience in React,and Django Frameworks. I am very interested in data science and AI, which led me to take a machine learning and deep learning specialization on Coursera.</p>
 <img align= "right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
 - 🌱 I’m currently learning **Pytorch,Tenserflow**
