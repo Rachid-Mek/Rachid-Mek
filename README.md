@@ -1,19 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Rachid</h1>
-<h3 align="center">A passionate Artificial Intelligence Student</h3>
-<p>My name is Rachid MEKDOUD, and I am currently pursuing a Master's degree in Artificial Intelligence. I am also a web developer, with experience in React,and Django Frameworks. I am very interested in data science and AI, which led me to take a machine learning and deep learning specialization on Coursera.</p>
-<img align= "right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<h3 align="center">Artificial Intelligence & Data Science Enthusiast</h3>
+
+<p>
+My name is Rachid Mekdoud, and I am deeply passionate about Artificial Intelligence, with a strong interest in Generative AI, Natural Language Processing, and Symbolic AI.  
+I enjoy exploring how intelligent systems can understand, reason, and interact with complex real-world data.  
+Throughout my academic journey and hands-on projects, I’ve worked extensively with machine learning, deep learning, large language models, and knowledge graphs.
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 - 🌱 I’m currently learning **Pytorch,Tenserflow**
 
-- 💬 Ask me about **AI , Machine Learning , Deep learning**
+- 💬 Ask me about **AI , Machine Learning , Deep learning, Knowledge Graphs**
 
 - 📫 How to reach me **rachidmekdoud@gmail.com**
 
 ## My Interests 🤔
 
 - Data science and AI 📈
-- Web development 🔗
+- Symbolic AI 🔗
 - Open source software 🆓
 
 <h3 align="left">Connect with me:</h3>
